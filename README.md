@@ -4,8 +4,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Links
 
-> Solution URL: [GitHub](https://github.com/HioFabien/qr-code-card-design)  
-> Live Site URL: [GitHub](https://hiofabien.github.io/qr-code-card-design)
+> Solution URL: [GitHub](https://github.com/HioFabien/product-preview-card-component-main)  
+> Live Site URL: [GitHub](https://hiofabien.github.io/product-preview-card-component-main)
 
 ## Built with
 
