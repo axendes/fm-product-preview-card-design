@@ -142,18 +142,28 @@ body {
 }
 
 .attribution {
-    font-size: 11px;
+    position: absolute;
+    inset: auto 0 1rem 0;
+
+    font-size: 1rem;
     text-align: center;
-    color: gray;
+    font-family: "Montserrat", Arial, sans-serif;
+
+    color: var(--black);
+
+    cursor: default;
 }
 
 .attribution a {
-    color: gray;
-    transition: color 100ms;
+    text-decoration: none;
+    font-weight: 700;
+    font-family: "Fraunces", Arial, sans-serif;
+    color: var(--black);
+    transition: color 200ms;
 }
 
 .attribution a:hover {
-    color: #000;
+    color: var(--dark-cyan);
 }
 
 @media screen and (max-width: 800px) {
